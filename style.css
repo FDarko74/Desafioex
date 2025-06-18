@@ -1,0 +1,84 @@
+main{
+    width: border-box;
+    margin: 88px 80px 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+img{
+    width: 100%;
+    border-radius: 28px;
+    object-fit: cover;
+    margin: auto 0 24px;
+}
+h1{
+    margin: 8px auto 40px;
+}
+h5{
+    text-transform: uppercase;
+    color: red;
+    margin: 0 auto 8px;
+}
+p{
+    font-size: 16px;
+}
+ol{
+    margin: auto;
+    padding: auto 0;
+}
+ol img{
+    border-radius: 28px;
+    object-fit: cover;
+    margin: auto 0 20px;
+}
+ol li h2{
+    font-weight: none;
+    font-size: larger;
+    margin: 0 auto 4px;
+}
+ol li p{
+    font-weight: none;
+    font-size: 16px;
+}
+ol li ul{
+    margin: 0;
+    padding: 0 auto;
+    text-decoration: none;
+}
+ol hr{
+    margin: 40px auto;
+}
+footer{
+    text-align: center;
+    margin: 65px auto;
+    font-family: "Alice";
+}
+.line{
+    border: 1px solid;
+}
+.ind{
+    font-weight: bold;
+    margin: 0;
+}
+.hist{
+    color: blue;
+}
+.legend{
+    font-style: italic;
+    font-size: smaller;
+    text-align: center;
+    color: grey;
+}
+#intro{
+    margin: 64px auto;
+}
+#Anuncio{
+    margin-bottom:40px;
+}
+#um{
+    color:purple;
+}
+#dos{
+    color:pink;
+}
+#tre{
+    color: orange;
+}
